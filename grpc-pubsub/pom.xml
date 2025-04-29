@@ -42,7 +42,6 @@
             <artifactId>javax.annotation-api</artifactId>
             <version>1.3.2</version>
         </dependency>
-        <!-- Removi grpc-all pois já temos as dependências individuais -->
     </dependencies>
 
     <build>
