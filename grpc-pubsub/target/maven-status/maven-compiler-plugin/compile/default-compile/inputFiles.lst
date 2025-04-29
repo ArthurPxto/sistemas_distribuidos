@@ -1,0 +1,12 @@
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/target/generated-sources/protobuf/java/com/example/pubsub/Message.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/target/generated-sources/protobuf/java/com/example/pubsub/SubscribeRequest.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/src/main/java/com/example/pubsub/PubSubServiceImpl.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/target/generated-sources/protobuf/java/com/example/pubsub/PublishResponseOrBuilder.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/src/main/java/com/example/pubsub/Publisher.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/target/generated-sources/protobuf/grpc-java/com/example/pubsub/PubSubServiceGrpc.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/target/generated-sources/protobuf/java/com/example/pubsub/SubscribeRequestOrBuilder.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/src/main/java/com/example/pubsub/PubSubServer.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/target/generated-sources/protobuf/java/com/example/pubsub/MessageOrBuilder.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/target/generated-sources/protobuf/java/com/example/pubsub/PublishResponse.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/src/main/java/com/example/pubsub/Subscriber.java
+/home/pxto/code/sistemas_distribuidos/grpc-pubsub/target/generated-sources/protobuf/java/com/example/pubsub/PubSubProto.java
