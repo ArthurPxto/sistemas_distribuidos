@@ -32,7 +32,8 @@ df_json = df_raw.selectExpr("CAST(value AS STRING)") \
 
 # Função de classificação simples
 def classificar_risco(bpm, spo2, sistolica, diastolica):
-    if bpm > 120 or spo2 < 90 or sistolica > 160 or diastolica > 110:
+    if bpm > 120 or spo2 < 90 \
+     or sistolica > 160  or diastolica > 110:
         return "emergência"
     elif bpm > 100 or spo2 < 95:
         return "alerta"
